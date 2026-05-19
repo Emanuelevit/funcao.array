@@ -1,1 +1,1 @@
-// run `node index.js` in the terminal
+let frutas = ["laranja";"manga";"maçã";"maracuja"]
