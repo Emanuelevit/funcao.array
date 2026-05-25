@@ -1,2 +1,5 @@
 let frutas = ["laranja","manga","maçã","maracuja","uva"];
- console.log('');
+ console.log(frutas);
+ console.log(frutas[0]);
+ console.lo();
+ 
