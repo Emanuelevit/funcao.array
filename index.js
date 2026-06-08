@@ -1,3 +1,5 @@
+//Listas
+
 //1
 let frutas = ["laranja","manga","maçã","maracuja","uva"];
  console.log(frutas);
@@ -30,7 +32,7 @@ console.log('Maior número: ' + maior);
 // Tuplas
 
 //1
-let aluno = ['Carlos', 17, '3°A'];
+let aluno = ['Pedro', 17, '3°c'];
 console.log(aluno);
 
 //2
