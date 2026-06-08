@@ -25,3 +25,31 @@ for (let i = 0; i < numeros2.length; i++) {
 }
 
 console.log('Maior número: ' + maior);
+
+
+// Tuplas
+
+//1
+let aluno = ['Carlos', 17, '3°A'];
+console.log(aluno);
+
+//2
+let produto = ['Notebook', 3500, 12];
+
+console.log('Produto: ' + produto[0]);
+console.log('Preço: R$ ' + produto[1]);
+console.log('Estoque: ' + produto[2] + ' unidades');
+
+//3
+let filmes = [
+    ['Vingadores', 2019, 'Ação'],
+    ['Toy Story', 1995, 'Animação'],
+    ['Avatar', 2009, 'Ficção'],
+  ];
+  
+  for (let i = 0; i < filmes.length; i++) {
+    console.log('Filme: ' + filmes[i][0]);
+    console.log('Ano: ' + filmes[i][1]);
+    console.log('Gênero: ' + filmes[i][2]);
+    console.log('----------------');
+  } 
