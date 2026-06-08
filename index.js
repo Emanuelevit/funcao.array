@@ -42,9 +42,9 @@ console.log('Estoque: ' + produto[2] + ' unidades');
 
 //3
 let filmes = [
-    ['Vingadores', 2019, 'Ação'],
+    ['Rei leão', 1994, 'Animação'],
     ['Toy Story', 1995, 'Animação'],
-    ['Avatar', 2009, 'Ficção'],
+    ['9 a Salvação', 2009, 'Animação, Aventura e Ficção Científica'],
   ];
   
   for (let i = 0; i < filmes.length; i++) {
